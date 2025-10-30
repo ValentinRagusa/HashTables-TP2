@@ -16,3 +16,9 @@
 # Backup files
 *~
 
+
+# Ignore report files
+TP 2 - Informe.docx
+TP 2 - Informe.pdf
+TP2 - Situación problemática.pdf
+
