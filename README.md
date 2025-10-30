@@ -1,5 +1,5 @@
-# Practical Work No. 2 – Hash Tables with Linear and Quadratic Probing
-# Trabajo Práctico N.º 2 – Tablas Hash con Sondeo Lineal y Cuadrático
+#  Hash Tables with Linear and Quadratic Probing
+#  Tablas Hash con Sondeo Lineal y Cuadrático
 
 ---
 
