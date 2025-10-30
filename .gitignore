@@ -1,0 +1,18 @@
+
+# Compiled Java classes
+*.class
+
+# Log files
+*.log
+
+# MacOS system files
+.DS_Store
+
+# IDE settings
+.idea/
+*.iml
+.vscode/
+
+# Backup files
+*~
+
